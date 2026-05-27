@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Prakhar%20Srivastava%20🚀&fontSize=42&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Prakhar%20Srivastava%20🚀&fontSize=42&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Prakhar2029">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+/+ML+Integration+Enthusiast;Competitive+Programmer+%7C+DSA;Information+Science+%26+Engg.+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+/+ML+Integration+Enthusiast;Computer+Science+Enthusiast" alt="Typing Animation" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
     <td width="84%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++----00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
     </td>
@@ -96,13 +96,13 @@
 ### 📊 GitHub Ecosystem Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2029&show_icons=true&theme=tokyonight&count_private=true" alt="Prakhar's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2029&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2029&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Prakhar's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2029&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar2029&theme=tokyonight" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2029&theme=tokyonight&column=4&margin-w=15&no-bg=true" alt="Trophies" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Prakhar2029&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2029&theme=tokyonight&column=4&margin-w=15&no-bg=true&cache_seconds=1800" alt="Trophies" width="49%" />
 </p>
 
 ---
