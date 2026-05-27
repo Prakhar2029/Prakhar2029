@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Prakhar2029">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+/+ML+Integration+Enthusiast;Computer+Science+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+%2F+ML+Integration+Enthusiast;Computer+Science+Enthusiast" alt="Typing Animation" />
   </a>
 </p>
 
@@ -34,39 +34,39 @@
   <tr>
     <td align="center" width="16%"><strong>Languages</strong></td>
     <td width="84%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="16%"><strong>Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="16%"><strong>Databases/AI</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="16%"><strong>DevOps & Cloud</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
 </table>
@@ -95,15 +95,13 @@
 
 ### 📊 GitHub Ecosystem Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar2029&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Prakhar's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2029&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" height="195px" />
-</p>
+![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakhar2029&show_icons=true&theme=tokyonight&count_private=true&disable_animations=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prakhar2029&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakhar2029&theme=tokyonight&column=4&margin-w=15&no-bg=true&cache_seconds=1800" alt="Trophies" width="49%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar2029&layout=compact&theme=tokyonight&disable_animations=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prakhar2029&theme=tokyonight&hide_border=true&disable_animations=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prakhar2029&theme=tokyonight&column=4&margin-w=15&no-bg=true)
 
 ---
 
